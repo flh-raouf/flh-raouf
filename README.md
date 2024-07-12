@@ -88,8 +88,8 @@
   <a href="https://www.instagram.com/fellahiabderraouf/?hl=fr" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="57" height="45" alt="instagram logo"  />
   </a>
-  <a href="https://kaggle.com/fellahiabderraouf" target="blank" style="display: inline-block; padding: 10px; margin-bottom: -20px;">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="fellahiabderraouf" width="57" height="45" />
+  <a href="https://kaggle.com/fellahiabderraouf" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kaggle logo" width="50" height="40" />
   </a>
 </div>
 
