@@ -1,12 +1,11 @@
-<h3 align="center">Hi 👋, I'm FELLAHI Abderraouf</h3>
+<h1 align="center">Hi 👋, I'm FELLAHI Abderraouf</h1>
+<h3 align="center">An engineer student at the HIGHER NATIONAL SCHOOL of COMPUTER SCIENCE -ESI- Algiers, a Back-end and AI devlopper</h3>
 
-###
+- 🌱 I’m currently learning **Generative AI and Game dev**
 
-<p align="center">An engineer student at the HIGHER NATIONAL SCHOOL of COMPUTER SCIENCE -ESI- Algiers, a Back-end and AI devloper</p>
+- 📫 My e-mail **ma_fellahi@esi.dz**
 
-###
-
-<p align="left">🌱 I’m currently learning Generative AI and Game dev<br>📫 My e-mail ma_fellahi@esi.dz<br>⚡ Fun fact SW1=0x90, SW2=0x00</p>
+- ⚡ Fun fact **SW1=0x90, SW2=0x00**
 
 ###
 
@@ -87,6 +86,9 @@
   </a>
   <a href="https://www.instagram.com/fellahiabderraouf/?hl=fr" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="57" height="45" alt="instagram logo"  />
+  </a>
+  <a href="https://kaggle.com/fellahiabderraouf" target="blank" style="display: inline-block; padding: 10px; margin-top: -20px;">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="fellahiabderraouf" width="57" height="45" />
   </a>
 </div>
 
