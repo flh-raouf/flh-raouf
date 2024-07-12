@@ -4,11 +4,20 @@
 
 <p align="center">An engineer student at the HIGHER NATIONAL SCHOOL of COMPUTER SCIENCE -ESI- Algiers, a Back-end and AI devloper</p>
 
-###
-
-<p align="left">📫 My e-mail ma_fellahi@esi.dz <br>⚡ Fun fact SW1=0x90, SW2=0x00</p>
+<br>
 
 ###
+
+- 🌱 I’m currently learning **Generative AI and Game dev**
+
+- 📫 My e-mail **ma_fellahi@esi.dz**
+
+- ⚡ Fun fact **SW1=0x90, SW2=0x00**
+
+  
+###
+
+<br>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=c" height="55" alt="c logo"  />
