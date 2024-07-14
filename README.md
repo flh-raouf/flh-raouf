@@ -28,6 +28,8 @@
   <img width="0" />
   <img src="https://skillicons.dev/icons?i=js" height="55" alt="javascript logo"  />
   <img width="0" />
+  <img src="https://skillicons.dev/icons?i=ts" height="55" alt="typescript logo"  />
+  <img width="0" />
   <img src="https://skillicons.dev/icons?i=html" height="55" alt="html5 logo"  />
   <img width="0" />
   <img src="https://skillicons.dev/icons?i=css" height="55" alt="css3 logo"  />
