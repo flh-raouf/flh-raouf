@@ -28,21 +28,19 @@
   <img width="0" />
   <img src="https://skillicons.dev/icons?i=js" height="55" alt="javascript logo"  />
   <img width="0" />
-  <img src="https://skillicons.dev/icons?i=ts" height="55" alt="typescript logo"  />
+  <img src="https://skillicons.dev/icons?i=py" height="55" alt="python logo"  />
+  <img width="0" />
+  <img src="https://skillicons.dev/icons?i=r" height="55" alt="r logo"  />
+  <img width="0" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="55" alt="tensorflow logo"  />
+  <img width="0" />
+  <img src="https://skillicons.dev/icons?i=docker" height="55" alt="docker logo"  />
+  <img width="0" />
+  <img src="https://skillicons.dev/icons?i=arduino" height="55" alt="arduino logo"  />
   <img width="0" />
   <img src="https://skillicons.dev/icons?i=html" height="55" alt="html5 logo"  />
   <img width="0" />
   <img src="https://skillicons.dev/icons?i=css" height="55" alt="css3 logo"  />
-  <img width="0" />
-  <img src="https://skillicons.dev/icons?i=arduino" height="55" alt="arduino logo"  />
-  <img width="0" />
-  <img src="https://skillicons.dev/icons?i=py" height="55" alt="python logo"  />
-  <img width="0" />
-  <img src="https://skillicons.dev/icons?i=docker" height="55" alt="docker logo"  />
-  <img width="0" />
-  <img src="https://skillicons.dev/icons?i=git" height="55" alt="git logo"  />
-  <img width="0" />
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="55" alt="tensorflow logo"  />
   <img width="0" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="55" alt="tailwindcss logo"  />
   <img width="0" />
@@ -56,17 +54,12 @@
   <img width="0" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="55" alt="mongodb logo"  />
   <img width="0" />
-  <img src="https://skillicons.dev/icons?i=linux" height="55" alt="linux logo"  />
-  <img width="0" />
-  <img src="https://skillicons.dev/icons?i=postman" height="55" alt="postman logo"  />
-  <img width="0" />
-  <img src="https://skillicons.dev/icons?i=figma" height="55" alt="figma logo"  />
+  <img src="https://skillicons.dev/icons?i=bash" height="55" alt="bash logo"  />
   <img width="0" />
   <img src="https://skillicons.dev/icons?i=github" height="55" alt="github logo"  />
   <img width="0" />
   <img src="https://skillicons.dev/icons?i=vscode" height="55" alt="vscode logo"  />
 </div>
-
 ###
 
 <div align="center">
