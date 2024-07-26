@@ -38,6 +38,8 @@
   <img width="0" />
   <img src="https://skillicons.dev/icons?i=docker" height="55" alt="docker logo"  />
   <img width="0" />
+  <img src="https://skillicons.dev/icons?i=godot" height="55" alt="godot logo"  />
+  <img width="0" />
   <img src="https://skillicons.dev/icons?i=arduino" height="55" alt="arduino logo"  />
   <img width="0" />
   <img src="https://skillicons.dev/icons?i=html" height="55" alt="html5 logo"  />
@@ -62,14 +64,14 @@
   <img width="0" />
   <img src="https://skillicons.dev/icons?i=vscode" height="55" alt="vscode logo"  />
 </div>
-###
 
+### 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=flh-raouf&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="160" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=flh-raouf&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=github_dark&hide_border=false&order=2" height="160" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=flh-raouf&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="160" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=flh-raouf&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=github_dark&hide_border=true&order=2" height="160" alt="languages graph"  />
 </div>
 
-###
+### 
 
 <br clear="both">
 
