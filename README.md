@@ -24,6 +24,8 @@
   <img width="0" />
   <img src="https://skillicons.dev/icons?i=cpp" height="55" alt="cplusplus logo"  />
   <img width="0" />
+  <img src="https://skillicons.dev/icons?i=cs" height="55" alt="csharp logo"  />
+  <img width="0" />
   <img src="https://skillicons.dev/icons?i=java" height="55" alt="java logo"  />
   <img width="0" />
   <img src="https://skillicons.dev/icons?i=js" height="55" alt="javascript logo"  />
@@ -34,17 +36,15 @@
   <img width="0" />
   <img src="https://skillicons.dev/icons?i=r" height="55" alt="r logo"  />
   <img width="0" />
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="55" alt="tensorflow logo"  />
-  <img width="0" />
-  <img src="https://skillicons.dev/icons?i=docker" height="55" alt="docker logo"  />
-  <img width="0" />
-  <img src="https://skillicons.dev/icons?i=godot" height="55" alt="godot logo"  />
-  <img width="0" />
-  <img src="https://skillicons.dev/icons?i=arduino" height="55" alt="arduino logo"  />
-  <img width="0" />
   <img src="https://skillicons.dev/icons?i=html" height="55" alt="html5 logo"  />
   <img width="0" />
   <img src="https://skillicons.dev/icons?i=css" height="55" alt="css3 logo"  />
+</div>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="55" alt="tensorflow logo"  />
+  <img width="0" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="55" alt="pandas logo"  />
   <img width="0" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="55" alt="tailwindcss logo"  />
   <img width="0" />
@@ -53,6 +53,16 @@
   <img src="https://skillicons.dev/icons?i=express" height="55" alt="express logo"  />
   <img width="0" />
   <img src="https://skillicons.dev/icons?i=nestjs" height="55" alt="nestjs logo"  />
+</div>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=arduino" height="55" alt="arduino logo"  />
+  <img width="0" />
+  <img src="https://skillicons.dev/icons?i=docker" height="55" alt="docker logo"  />
+  <img width="0" />
+  <img src="https://skillicons.dev/icons?i=godot" height="55" alt="godot logo"  />
+  <img width="0" />
+  <img src="https://skillicons.dev/icons?i=unity" height="55" alt="unity logo"  />
   <img width="0" />
   <img src="https://skillicons.dev/icons?i=mysql" height="55" alt="mysql logo"  />
   <img width="0" />
@@ -64,6 +74,8 @@
   <img width="0" />
   <img src="https://skillicons.dev/icons?i=vscode" height="55" alt="vscode logo"  />
 </div>
+
+###
 
 ### 
 <div align="center">
