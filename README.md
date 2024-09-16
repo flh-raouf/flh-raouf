@@ -41,30 +41,34 @@
   <img src="https://skillicons.dev/icons?i=css" height="55" alt="css3 logo"  />
 </div>
 
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=tensorflow" height="55" alt="tensorflow logo"  />
   <img width="0" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="55" alt="pandas logo"  />
   <img width="0" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="55" alt="tailwindcss logo"  />
-  <img width="0" />
-  <img src="https://skillicons.dev/icons?i=react" height="55" alt="react logo"  />
-  <img width="0" />
   <img src="https://skillicons.dev/icons?i=express" height="55" alt="express logo"  />
   <img width="0" />
   <img src="https://skillicons.dev/icons?i=nestjs" height="55" alt="nestjs logo"  />
+  <img width="0" />
+  <img src="https://skillicons.dev/icons?i=flask" height="55" alt="flask logo"  />
+  <img width="0" />
+  <img src="https://skillicons.dev/icons?i=fastapi" height="55" alt="fastapi logo"  />
 </div>
+
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=arduino" height="55" alt="arduino logo"  />
   <img width="0" />
   <img src="https://skillicons.dev/icons?i=docker" height="55" alt="docker logo"  />
   <img width="0" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="55" alt="kubernetes logo"  />
+  <img width="0" />
   <img src="https://skillicons.dev/icons?i=godot" height="55" alt="godot logo"  />
   <img width="0" />
   <img src="https://skillicons.dev/icons?i=unity" height="55" alt="unity logo"  />
   <img width="0" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="55" alt="mysql logo"  />
+  <img src="https://skillicons.dev/icons?i=postgres" height="55" alt="postgresql logo"  />
   <img width="0" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="55" alt="mongodb logo"  />
   <img width="0" />
@@ -74,8 +78,6 @@
   <img width="0" />
   <img src="https://skillicons.dev/icons?i=vscode" height="55" alt="vscode logo"  />
 </div>
-
-###
 
 ### 
 <div align="center">
