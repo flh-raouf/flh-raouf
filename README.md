@@ -46,14 +46,12 @@
   <img src="https://skillicons.dev/icons?i=tensorflow" height="55" alt="tensorflow logo"  />
   <img width="0" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="55" alt="pandas logo"  />
-  <img width="0" />
-  <img src="https://skillicons.dev/icons?i=express" height="55" alt="express logo"  />
+ 
   <img width="0" />
   <img src="https://skillicons.dev/icons?i=nestjs" height="55" alt="nestjs logo"  />
+  
   <img width="0" />
-  <img src="https://skillicons.dev/icons?i=flask" height="55" alt="flask logo"  />
-  <img width="0" />
-  <img src="https://skillicons.dev/icons?i=fastapi" height="55" alt="fastapi logo"  />
+  <img src="https://skillicons.dev/icons?i=django" height="55" alt="django logo"  />
 </div>
 
 
