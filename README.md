@@ -92,7 +92,7 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/abderraouf-fellahi-704259269/" target="_blank">
+  <a href="https://www.linkedin.com/in/abderraouf-fellahi/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="57" height="45" alt="linkedin logo"  />
   </a>
   <a href="https://www.behance.net/fellahiabderra1" target="_blank">
