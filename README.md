@@ -83,6 +83,18 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=flh-raouf&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=github_dark&hide_border=true&order=2" height="160" alt="languages graph"  />
 </div>
 
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="images/breakout-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="images/breakout-light.svg"
+  />
+  <img alt="Breakout Game" src="images/breakout-light.svg" />
+</picture>
+
 ### 
 
 <br clear="both">
@@ -105,5 +117,7 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" alt="kaggle logo" width="55" height="42" />
   </a>
 </div>
+
+
 
 ###
