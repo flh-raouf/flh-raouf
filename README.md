@@ -100,7 +100,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/flh-raouf/flh-raouf/output/snake.svg" alt="Snake animation" />
+<!-- img src="https://raw.githubusercontent.com/flh-raouf/flh-raouf/output/snake.svg" alt="Snake animation" /-->
 
 ###
 
