@@ -6,9 +6,9 @@
 {
   "name": "FELLAHI Abderraouf",
   "school": "HIGHER NATIONAL SCHOOL of COMPUTER SCIENCE -ESI- Algiers",
-  "role": "Engineer Student",
-  "focus": ["Back-end architecture", "Artificial Intelligence", "Emerging tech"],
-  "description": "Passionate about innovation, community, and the fusion of code and creativity.",
+  "role": "CEO & Founder of Doxa. Intel's Student Ambassador. Engineer Student",
+  "focus": ["Back-end architecture", "Artificial Intelligence", "Game Dev"],
+  "description": "Passionate about entreprneurship, technology, and the fusion of code and creativity.",
   "about": {
     "current_study": "Artificial Intelligence & Backend Systems",
     "skills": [
