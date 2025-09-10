@@ -66,7 +66,7 @@
   <img alt="Azure" src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
 </p>
 
-<picture>
+<!--picture>
   <source
     media="(prefers-color-scheme: dark)"
     srcset="images/breakout-dark.svg"
@@ -76,13 +76,13 @@
     srcset="images/breakout-light.svg"
   />
   <img alt="Breakout Game" src="images/breakout-light.svg" />
-</picture>
-
+</picture-->
+<img src="https://raw.githubusercontent.com/flh-raouf/flh-raouf/output/snake.svg" alt="Snake animation" />
 ### 
 
 <br clear="both">
 
-<!-- img src="https://raw.githubusercontent.com/flh-raouf/flh-raouf/output/snake.svg" alt="Snake animation" /-->
+
 ---
 ### 🤝 Let’s Connect & Collaborate
 
